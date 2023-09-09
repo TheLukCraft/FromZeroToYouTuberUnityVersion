@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 1705160745
+    locked: 0
+  - name: Water
+    uniqueID: 1150744365
+    locked: 0
+  - name: Platforms
+    uniqueID: 2907349447
+    locked: 0

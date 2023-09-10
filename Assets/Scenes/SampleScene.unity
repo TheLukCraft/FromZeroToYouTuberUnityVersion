@@ -13369,6 +13369,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2140611005496946833, guid: 229a94525dea602479dcd7de319afced, type: 3}
+      propertyPath: m_GravityScale
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2140611005496946833, guid: 229a94525dea602479dcd7de319afced, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3262172013940283399, guid: 229a94525dea602479dcd7de319afced, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -13412,6 +13420,10 @@ PrefabInstance:
     - target: {fileID: 3262172013940283399, guid: 229a94525dea602479dcd7de319afced, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5276809109378125250, guid: 229a94525dea602479dcd7de319afced, type: 3}
+      propertyPath: jumpSpeed
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 6544041365789303961, guid: 229a94525dea602479dcd7de319afced, type: 3}
       propertyPath: m_Name

@@ -18290,6 +18290,14 @@ PrefabInstance:
       propertyPath: m_Offset.y
       value: -0.4170441
       objectReference: {fileID: 0}
+    - target: {fileID: 5276809109378125250, guid: 229a94525dea602479dcd7de319afced, type: 3}
+      propertyPath: deathKick.x
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 5276809109378125250, guid: 229a94525dea602479dcd7de319afced, type: 3}
+      propertyPath: deathKick.y
+      value: 20
+      objectReference: {fileID: 0}
     - target: {fileID: 6544041365789303961, guid: 229a94525dea602479dcd7de319afced, type: 3}
       propertyPath: m_Name
       value: Ginger (Player)
